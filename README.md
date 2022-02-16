@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lexarium
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning coding with javascript.
+- 👽 A person who is currently unknown but will become an entrepreneur in the future..
+- 📫 How to reach me İg @tuna.akgn
