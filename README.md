@@ -4,7 +4,7 @@
 
 ## Web Developer | Html & Css & Js
 
-<font color="#23ab42b">You are faced with a mind that will be an entrepreneur in the future! </font>
+<font color="#23ab42b">You are facing with a mind that will be an entrepreneur in the future! </font>
 
 ## Reach out to me
 
