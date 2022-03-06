@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="220">
 
-### Hı there, I'm Lexarium :smile_cat:
+### Hi there, I'm Lexarium :smile_cat:
 
 ## Web Developer | Html & Css & Js
 
