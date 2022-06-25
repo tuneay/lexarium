@@ -9,8 +9,8 @@
 ## Reach out to me
 
 <ul>
-<li>InnovaTech installed the system <a href="https://www.instagram.com/innovatech.ent/">InnovaTech</a>
-<li>Web Developer on Nexus RateApp'
+<li>Tuna Akgün installed the system <a href="https://www.instagram.com/ratethey/">RateThey</a>
+<li>Web Developer on RateThey'
 
 
 
