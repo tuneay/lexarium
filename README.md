@@ -9,13 +9,13 @@
 ## Reach out to me
 
 <ul>
-<li>Tuna Akgün installed the system <a href="https://www.instagram.com/ratethey/">RateThey</a>
-<li>Web Developer on RateThey'
+<li>Tuna Akgün installed the system <a href="https://www.eliyer.com">Eliyer.com</a>
+<li>Web Developer on Eliyer'
 
 
 
 [youtube]:https://www.youtube.com/channel/UCqELiWvvnwxRjdaFW_FnTig
-[instagram]:https://www.instagram.com/tuna.akgn/
+[instagram]:https://www.instagram.com/tuneayy/
 [discord]:https://discord.gg/QUr9wBqg
 
 <br/>
